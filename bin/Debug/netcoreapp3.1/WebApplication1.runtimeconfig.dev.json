@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Epikg\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Epikg\\.nuget\\packages"
+    ]
+  }
+}
